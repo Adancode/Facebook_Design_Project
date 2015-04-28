@@ -1,5 +1,5 @@
 # Facebook_Design_Project
-This is my Facebook design teardown and mockup, completed as part of the prep work for the Viking Code School.
+This is my Facebook design teardown and mockup, completed as part of the prep work for the Viking Code School.  Regarding the mockups, the project did not require this level of detail, but I wanted to learn Balsamiq well, so I purchased a copy and used the project as an opportunity to get very familiar with the tool.  I now have a newfound appreciation for the design process and I'm in love with Balsamiq.
 
 Included Files:
 
